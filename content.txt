@@ -1,3 +1,7 @@
 red
 green
 blue
+my1
+my2
+name
+email
